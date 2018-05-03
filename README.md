@@ -1,2 +1,2 @@
-# DataStructure
-In this project I use the C program language to write the common dataStructure .
+# LeetCode
+In this project , I use java/python/c++ to practice programming topics
